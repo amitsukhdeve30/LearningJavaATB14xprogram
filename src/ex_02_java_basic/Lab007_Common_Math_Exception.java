@@ -6,3 +6,4 @@ public class Lab007_Common_Math_Exception {
         System.out.println(10/0);
     }
 }
+// // Exception in thread "main" java.lang.ArithmeticException
