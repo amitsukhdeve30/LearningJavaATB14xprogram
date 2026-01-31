@@ -1,6 +1,6 @@
 package ex_03_Literals;
 
-public class Lab_13_Integral_Literals {
+public class Lab_16_Integral_Literals {
     public static void main(String[] args) {
 
 
